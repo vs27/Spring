@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="studentdatarepository"/>
+<aop-project name="school-service"/>
+<aop-project name="eureka-server"/>
+<aop-project name="crud-demo"/>
+<aop-project name="capitals-service"/>
+<aop-project name="euroka-server"/>
+<aop-project name="student-service"/>
+<aop-project name="schooldatarepository"/>
+<aop-project name="eureka naming server"/>
+<aop-project name="unit-testing"/>
+<aop-project name="springboot-forex-service"/>
+<aop-project name="countries-service"/>
+<aop-project name="spboot-currency-conversion"/>
+</aop-reference-model>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="F:\Work Zone\JAVA\STS Workspace\basic-microservices-app-master"/>
+			<item value="F:\Work Zone\JAVA\STS Workspace\poc-demo2"/>
+			<item value="F:\Work Zone\JAVA\STS Workspace\poc-demo"/>
+			<item value="F:\Work Zone\JAVA\STS Workspace\crud-demo"/>
+			<item value="F:\Work Zone\JAVA\STS Workspace\"/>
+			<item value="F:\Work Zone\JAVA\STS Workspace\unit-testing"/>
+			<item value="F:\Work Zone\JAVA\STS Workspace\unittesting1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="springEureka"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="springEureka"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

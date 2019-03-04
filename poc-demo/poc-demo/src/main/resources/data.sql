@@ -1,0 +1,1 @@
+insert into school_bean values('Swapna' ,'Radha');
